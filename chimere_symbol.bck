@@ -1,0 +1,27 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FDS2734
+D 3.0A Id, 250V Vds, N-Channel MOSFET, 117mOhm Ron, SOIC-8
+K N-Channel MOSFET
+F http://www.onsemi.com/pub/Collateral/FDS2734-D.pdf
+$ENDCMP
+#
+$CMP FDS6630A
+D 6.5A Id, 30V Vds, N-Channel MOSFET, 38mOhm Ron, SOIC-8
+K N-Channel MOSFET
+F http://www.onsemi.com/pub/Collateral/FDS6630A-D.pdf
+$ENDCMP
+#
+$CMP IRF7403
+D 9.7A Id, 30V Vds, N-Channel HEXFET Power MOSFET, SO-8
+K N-Channel MOSFET
+F https://www.infineon.com/dgdl/irf7403pbf.pdf?fileId=5546d462533600a4015355fa23541b9c
+$ENDCMP
+#
+$CMP Si4162DY
+D 14A Id, 30V Vds, HEXFET N-Channel MOSFET, SO-8
+K HEXFET N-Channel MOSFET
+F http://www.irf.com/product-info/datasheets/data/irf8721pbf-1.pdf
+$ENDCMP
+#
+#End Doc Library
