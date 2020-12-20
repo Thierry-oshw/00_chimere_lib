@@ -18,6 +18,10 @@ K N-Channel MOSFET
 F https://www.infineon.com/dgdl/irf7403pbf.pdf?fileId=5546d462533600a4015355fa23541b9c
 $ENDCMP
 #
+$CMP ME2108A50M3
+F C14839
+$ENDCMP
+#
 $CMP Si4162DY
 D 14A Id, 30V Vds, HEXFET N-Channel MOSFET, SO-8
 K HEXFET N-Channel MOSFET
