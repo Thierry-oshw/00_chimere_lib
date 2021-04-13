@@ -28,4 +28,10 @@ K HEXFET N-Channel MOSFET
 F http://www.irf.com/product-info/datasheets/data/irf8721pbf-1.pdf
 $ENDCMP
 #
+$CMP joystick
+D RKJXV1220001
+K C219778
+F C219778
+$ENDCMP
+#
 #End Doc Library
