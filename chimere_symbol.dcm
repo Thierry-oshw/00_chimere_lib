@@ -1,5 +1,10 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP ARDUINO_MICRO_SHIELD
+D Arduino Micro shield
+K arduino, micro
+$ENDCMP
+#
 $CMP FDS2734
 D 3.0A Id, 250V Vds, N-Channel MOSFET, 117mOhm Ron, SOIC-8
 K N-Channel MOSFET
