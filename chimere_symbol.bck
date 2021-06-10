@@ -12,10 +12,20 @@ K N-Channel MOSFET
 F http://www.onsemi.com/pub/Collateral/FDS6630A-D.pdf
 $ENDCMP
 #
+$CMP IMP3201
+F C72885
+$ENDCMP
+#
 $CMP IRF7403
 D 9.7A Id, 30V Vds, N-Channel HEXFET Power MOSFET, SO-8
 K N-Channel MOSFET
 F https://www.infineon.com/dgdl/irf7403pbf.pdf?fileId=5546d462533600a4015355fa23541b9c
+$ENDCMP
+#
+$CMP K1-1506SN-01
+D 10*10mm 5-way Tactile Switches RoHS
+K smd 5ways switch
+F C145910
 $ENDCMP
 #
 $CMP ME2108A50M3
