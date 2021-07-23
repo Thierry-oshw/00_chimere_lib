@@ -6,7 +6,7 @@ EESchema-LIBRARY Version 2.4
 DEF Audio_Facile U 0 40 Y Y 1 F N
 F0 "U" -325 425 50 H V C CNN
 F1 "Audio_Facile" 225 25 50 H V C CNN
-F2 "Chimere:Audio_Facile" 0 0 50 H I C CNN
+F2 "Chimere_mods:Audio_Facile" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
 S -400 350 400 -25 0 1 0 N
@@ -24,7 +24,7 @@ ENDDEF
 DEF Batt_Alim U 0 40 Y Y 1 F N
 F0 "U" -325 425 50 H V C CNN
 F1 "Batt_Alim" 225 25 50 H V C CNN
-F2 "Chimere:Batt_Alim" 0 0 50 H I C CNN
+F2 "Chimere_mods:Batt_Alim" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
 DRAW
 S -400 350 400 -25 0 1 0 N
