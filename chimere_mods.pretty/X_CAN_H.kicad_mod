@@ -105,4 +105,9 @@
   (pad "5" smd rect (at -8.001 5.08 180) (size 3.5 1.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d1dea7b5-aa26-4bb7-bef6-adda9b6deb71))
   (pad "6" thru_hole rect (at -6.35 7.62 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp a152dee8-34ab-45ed-8d10-c893272c9034))
   (pad "6" smd rect (at -8.001 7.62 180) (size 3.5 1.7) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp bb17772c-16bf-49a7-ba3d-233328514ed8))
+  (model "${KI_GITHUB}/00_chimere_lib/chimere_mods_3D/15_XCAN_H.step"
+    (offset (xyz -110.5 71 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 0))
+  )
 )
