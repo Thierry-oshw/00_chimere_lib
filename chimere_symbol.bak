@@ -1875,7 +1875,7 @@
     (property "Value" "V78Exx-1000-SMT" (id 1) (at 1.27 7.62 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "0_Chimere_comps:CONV_V78E03-1000-SMT-TR" (id 2) (at 0 0 0)
+    (property "Footprint" "Chimere_comps:CONV_V78E03-1000-SMT-TR" (id 2) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 0 0)
