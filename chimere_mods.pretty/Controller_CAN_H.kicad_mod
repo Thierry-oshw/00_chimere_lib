@@ -103,8 +103,8 @@
   (pad "6" thru_hole rect (at -6.35 3.81 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp fa35e374-39cc-4a72-817d-94866a741f3b))
   (pad "7" thru_hole rect (at -6.35 6.35 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 18155824-49ac-4790-a027-9489296f5a17))
   (pad "8" thru_hole rect (at -6.35 8.89 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask) (tstamp 78d39cca-0df2-45c2-acd4-93a145c24c5a))
-  (model "${KI_GITHUB}/00_chimere_lib/chimere_mods_3D/17_CAN_Controller_HP.step"
-    (offset (xyz -110.5 72.5 3))
+  (model "${KI_GITHUB}/00_chimere_lib/chimere_mods_3D/17_CAN_Controller_H.step"
+    (offset (xyz -110.5 72.5 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
