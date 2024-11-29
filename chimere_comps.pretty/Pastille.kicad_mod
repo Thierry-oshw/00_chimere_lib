@@ -1,0 +1,17 @@
+(footprint "Pastille" (version 20221018) (generator pcbnew)
+  (layer "F.Cu")
+  (attr through_hole exclude_from_pos_files exclude_from_bom)
+  (fp_text reference "REF**" (at 0 -2 unlocked) (layer "F.SilkS") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp cccb90c2-57ce-4f36-a15b-af40fecdd177)
+  )
+  (fp_text value "Pastille" (at 0 1 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp e7da80fb-09c5-4256-bdcd-d8307e7624e8)
+  )
+  (fp_text user "${REFERENCE}" (at 0 2.5 unlocked) (layer "F.Fab") hide
+      (effects (font (size 1 1) (thickness 0.15)))
+    (tstamp ec9dc3b3-ef03-46d0-b1b2-acb25cf210c2)
+  )
+  (pad "1" thru_hole circle (at 0 0) (size 1.8 1.8) (drill 1.1) (layers "*.Cu" "*.Mask") (tstamp d40e378f-2345-43dc-b198-93cb06ff6088))
+)
