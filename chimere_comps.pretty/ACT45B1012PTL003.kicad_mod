@@ -1,0 +1,236 @@
+(footprint "ACT45B1012PTL003"
+	(version 20240108)
+	(generator "pcbnew")
+	(generator_version "8.0")
+	(layer "F.Cu")
+	(descr "ACT45B")
+	(tags "Filter")
+	(property "Reference" "FL**"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(uuid "809c7694-bc19-4172-8331-66a1921f4257")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "ACT45B1012PTL003"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "c9cf7c0e-5a61-4dec-a4aa-18089d3afab1")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Footprint" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "fbe179b7-c98c-462e-9e72-19158f19f996")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "797251b2-9598-4ea9-9e94-5e3bb624bb5d")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0938d7ad-e1e1-4e2d-b5e6-42cdc0d90c11")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -3.5 -1.2)
+		(end -3.5 -1.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3f61c302-d8b4-4357-a397-f0474b6f7756")
+	)
+	(fp_line
+		(start -3.4 -1.2)
+		(end -3.4 -1.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "35e111da-f1ac-41c0-8eb2-c3549363f029")
+	)
+	(fp_arc
+		(start -3.5 -1.2)
+		(mid -3.45 -1.25)
+		(end -3.4 -1.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "aaa8bb1c-9986-40c6-9cff-5b9ef0223eee")
+	)
+	(fp_arc
+		(start -3.4 -1.2)
+		(mid -3.45 -1.15)
+		(end -3.5 -1.2)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "6775485b-9c1a-45e9-84d5-7ac4c2f26214")
+	)
+	(fp_line
+		(start -3.75 -2.6)
+		(end 3.75 -2.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7396a9ff-da8f-477a-949b-e5f0460010cb")
+	)
+	(fp_line
+		(start -3.75 2.6)
+		(end -3.75 -2.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "3f14bdc3-f3f2-4e0d-9c74-f706eb70213a")
+	)
+	(fp_line
+		(start 3.75 -2.6)
+		(end 3.75 2.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6562c8c3-adf8-4e38-9c65-0235bae649fb")
+	)
+	(fp_line
+		(start 3.75 2.6)
+		(end -3.75 2.6)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "37e31c40-2af5-4ec3-a7de-b940f141a087")
+	)
+	(fp_line
+		(start -2.25 -1.6)
+		(end 2.25 -1.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d5afc84a-6a69-40ea-9471-08f70d43a1b8")
+	)
+	(fp_line
+		(start -2.25 1.6)
+		(end -2.25 -1.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "37858c67-46e3-41f0-9223-7afae4a1e9a2")
+	)
+	(fp_line
+		(start 2.25 -1.6)
+		(end 2.25 1.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "50708de7-e9a7-438b-8fe9-dea69074a956")
+	)
+	(fp_line
+		(start 2.25 1.6)
+		(end -2.25 1.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "6aafaf8d-d1a6-4147-9bd9-2013d10b23b9")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "c73a95f5-72c2-452a-8337-e36b768c4c03")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2.275 -1.25 90)
+		(size 0.9 1.35)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "82478f97-776f-4950-88ab-4b4a259fc820")
+	)
+	(pad "2" smd rect
+		(at -2.275 1.25 90)
+		(size 0.9 1.35)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "fa73ad48-3dd5-472b-8a70-ec3b1cc0ee8f")
+	)
+	(pad "3" smd rect
+		(at 2.275 1.25 90)
+		(size 0.9 1.35)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "b8f20695-8065-4b71-8631-d9faee9ac784")
+	)
+	(pad "4" smd rect
+		(at 2.275 -1.25 90)
+		(size 0.9 1.35)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(uuid "a035e0c8-e102-45bb-9247-78ba9283a13b")
+	)
+	(model "${CHEMIN_GITHUB}/00_chimere_lib/chimere_comps_3D/ACT45B-510-2P-TL003.stp"
+		(offset
+			(xyz 0 -0.25 -3)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
