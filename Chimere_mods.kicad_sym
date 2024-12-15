@@ -1908,7 +1908,7 @@
 				)
 			)
 			(pin input line
-				(at 6.5447 30.4686 270)
+				(at 6.35 30.48 270)
 				(length 2.54)
 				(name "TX"
 					(effects
