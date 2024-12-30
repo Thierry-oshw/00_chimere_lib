@@ -75,6 +75,28 @@
 			(type default)
 		)
 		(fill none)
+		(layer "B.SilkS")
+		(uuid "4c4d8f09-8f7d-40f5-82b9-778b117a062a")
+	)
+	(fp_rect
+		(start -10.16 -27.305)
+		(end 10.16 27.305)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
+		(layer "F.SilkS")
+		(uuid "1854031b-80ce-489a-a3e7-c6356d95d95c")
+	)
+	(fp_rect
+		(start -10.16 -27.305)
+		(end 10.16 27.305)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill none)
 		(layer "F.CrtYd")
 		(uuid "3754501a-7107-48b2-bcec-15fd7f3a1103")
 	)
