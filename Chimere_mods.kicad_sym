@@ -1216,7 +1216,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Chimere_mods:Ultrogothe"
 			(at 15.24 -2.54 0)
 			(effects
 				(font
