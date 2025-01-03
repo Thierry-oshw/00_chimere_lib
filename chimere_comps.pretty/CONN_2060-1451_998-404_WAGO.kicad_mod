@@ -220,20 +220,20 @@
 		)
 	)
 	(pad "1" thru_hole circle
-		(at 0 0)
-		(size 2.2 2.2)
-		(drill 1.4986)
-		(layers "*.Cu" "*.Mask")
-		(remove_unused_layers no)
-		(uuid "5f835f21-4305-4a66-9df2-5f4b78f5832b")
-	)
-	(pad "2" thru_hole circle
 		(at 0 -9.200002)
 		(size 2.2 2.2)
 		(drill 1.4986)
 		(layers "*.Cu" "*.Mask")
 		(remove_unused_layers no)
 		(uuid "bb39b617-1048-4c1a-89c3-356a657e519b")
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 2.2 2.2)
+		(drill 1.4986)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5f835f21-4305-4a66-9df2-5f4b78f5832b")
 	)
 	(model "${CHEMIN_GITHUB}/00_chimere_lib/chimere_comps_3D/WAGO_2060-1451_998-404.stp"
 		(offset
