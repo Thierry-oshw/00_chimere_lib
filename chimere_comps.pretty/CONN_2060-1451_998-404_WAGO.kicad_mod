@@ -1,7 +1,7 @@
 (footprint "CONN_2060-1451_998-404_WAGO"
-	(version 20240108)
+	(version 20241229)
 	(generator "pcbnew")
-	(generator_version "8.0")
+	(generator_version "9.0")
 	(layer "F.Cu")
 	(tags "2060-1451/998-404 ")
 	(property "Reference" "REF**"
@@ -24,18 +24,6 @@
 		(effects
 			(font
 				(size 1 1)
-				(thickness 0.15)
-			)
-		)
-	)
-	(property "Footprint" ""
-		(at 0 0 0)
-		(layer "F.Fab")
-		(hide yes)
-		(uuid "d33f3dc6-8f4b-4956-81e5-27ac4b266179")
-		(effects
-			(font
-				(size 1.27 1.27)
 				(thickness 0.15)
 			)
 		)
@@ -104,17 +92,6 @@
 		)
 		(layer "F.SilkS")
 		(uuid "f4fb7e8a-44de-43ea-b9a9-aa63dfeb88d8")
-	)
-	(fp_circle
-		(center 0 2.54)
-		(end 0.381 2.54)
-		(stroke
-			(width 0.508)
-			(type solid)
-		)
-		(fill none)
-		(layer "F.SilkS")
-		(uuid "00704c88-da8e-4141-b04a-a523779da7fd")
 	)
 	(fp_line
 		(start -2.204 -11.356401)
@@ -203,7 +180,7 @@
 			(width 0.508)
 			(type solid)
 		)
-		(fill none)
+		(fill no)
 		(layer "F.Fab")
 		(uuid "e58610df-b357-4e8e-89b0-b28eeab81110")
 	)
@@ -235,6 +212,7 @@
 		(remove_unused_layers no)
 		(uuid "5f835f21-4305-4a66-9df2-5f4b78f5832b")
 	)
+	(embedded_fonts no)
 	(model "${CHEMIN_GITHUB}/00_chimere_lib/chimere_comps_3D/WAGO_2060-1451_998-404.stp"
 		(offset
 			(xyz -2 11 0.25)
