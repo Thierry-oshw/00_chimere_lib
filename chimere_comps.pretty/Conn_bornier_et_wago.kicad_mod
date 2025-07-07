@@ -1,0 +1,235 @@
+(footprint "Conn_bornier_et_wago"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(tags "2060-1451/998-404 ")
+	(property "Reference" "REF**"
+		(at 0 -4.600001 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "69f2480d-6205-4cac-adb2-4a21d1434460")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Conn_bornier_et_wago"
+		(at 0 -4.600001 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "16237ddc-e3b7-4897-af06-9d1305a54b86")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "38ca5756-b397-4204-9458-d456f64a3a54")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "535d5cc8-f78f-4dd3-a032-9cb20cf4c904")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start -2.077 -11.229401)
+		(end -2.077 1.724599)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "4cc4c177-be2f-48df-981c-b8d027f9ef4a")
+	)
+	(fp_line
+		(start -2.077 1.724599)
+		(end 2.077 1.724599)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0e0a6aa1-fd76-45b4-913e-714c85cf3e28")
+	)
+	(fp_line
+		(start 2.077 -11.229401)
+		(end -2.077 -11.229401)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "84527d46-7224-409e-a9e5-00099fb08b8b")
+	)
+	(fp_line
+		(start 2.077 1.724599)
+		(end 2.077 -11.229401)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "f4fb7e8a-44de-43ea-b9a9-aa63dfeb88d8")
+	)
+	(fp_line
+		(start -2.204 -11.356401)
+		(end -2.204 1.851599)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "539e5558-5de3-4d08-81ad-9491f2a7235b")
+	)
+	(fp_line
+		(start -2.204 1.851599)
+		(end 2.204 1.851599)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6afac229-14bf-4e9e-ad37-2c1eb8600685")
+	)
+	(fp_line
+		(start 2.204 -11.356401)
+		(end -2.204 -11.356401)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "bf57dc9b-76e5-439c-bfd5-289fb935f587")
+	)
+	(fp_line
+		(start 2.204 1.851599)
+		(end 2.204 -11.356401)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "bf5f6510-4b78-4bcd-b2b1-91f97dc49dea")
+	)
+	(fp_line
+		(start -1.95 -11.102401)
+		(end -1.95 1.597599)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "1a188347-ac9b-4216-8b79-44eb28d80b62")
+	)
+	(fp_line
+		(start -1.95 1.597599)
+		(end 1.95 1.597599)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "94e88b9b-2d36-40e4-9413-d84193d557f6")
+	)
+	(fp_line
+		(start 1.95 -11.102401)
+		(end -1.95 -11.102401)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4b56b7a1-5db5-4886-90d0-daa873e1bd1e")
+	)
+	(fp_line
+		(start 1.95 1.597599)
+		(end 1.95 -11.102401)
+		(stroke
+			(width 0.0254)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2aa3e1cb-630e-4219-9891-a908b040742d")
+	)
+	(fp_circle
+		(center 0 1.905)
+		(end 0.381 1.905)
+		(stroke
+			(width 0.508)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "e58610df-b357-4e8e-89b0-b28eeab81110")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -4.600001 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "37794924-b57c-4105-83f5-dd30376c5014")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" thru_hole circle
+		(at 0 -9.200002)
+		(size 2.2 2.2)
+		(drill 1.4986)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "bb39b617-1048-4c1a-89c3-356a657e519b")
+	)
+	(pad "1" thru_hole circle
+		(at 0 -6.9)
+		(size 2.2 2.2)
+		(drill 1.4986)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "bb591264-ee42-48ab-beed-796ad7d38b0f")
+	)
+	(pad "1" thru_hole circle
+		(at 0 0)
+		(size 2.2 2.2)
+		(drill 1.4986)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "5f835f21-4305-4a66-9df2-5f4b78f5832b")
+	)
+	(embedded_fonts no)
+	(model "${CHEMIN_GITHUB}/00_chimere_lib/chimere_comps_3D/WAGO_2060-1451_998-404.stp"
+		(offset
+			(xyz -2 11 0.25)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -90 0 -90)
+		)
+	)
+)
